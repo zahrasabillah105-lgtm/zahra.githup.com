@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme   {
+    /*TAMBAH CUSTOM UNTUK WARNA*/
+    --color-primary: oklch(70.4% 0.14 182.503);
+    --color-dark: oklch(12.9% 0.042 264.695);
+    --color-paragraf: oklch(44.6% 0.043 257.281)
+    
+}
